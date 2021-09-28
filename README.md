@@ -6,11 +6,11 @@ Specifically, he wants temperature data for the months of June and December in O
 
 June Temperature Analysis
 
-![Alt Text](https://github.com/CarlosRello/Surfs_up/blob/main/June.png
+![Alt Text](https://github.com/CarlosRello/Surfs_up/blob/main/June.png)
 
 December Temperature Analysis
 
-![Alt Text](https://github.com/CarlosRello/Surfs_up/blob/main/Dec.png
+![Alt Text](https://github.com/CarlosRello/Surfs_up/blob/main/Dec.png)
 
 
 After running the numbers we observe that:
